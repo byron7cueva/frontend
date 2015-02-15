@@ -57,3 +57,12 @@ GITHUB
 
 Git:
 Es un sistema de control de versiones.
+
+GitHub:
+Commint: Es una tarea completa, permite aceptar cambios.
+Push: Permite enviar al servidor
+
+----
+Foundation:
+Es un framework Css, provee de muchas clases t widgets.
+Framework: Es un conjunto de herramienteas para hacer algo, que tiene una estructura y sintaxis.
